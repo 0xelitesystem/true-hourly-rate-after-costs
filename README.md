@@ -1,8 +1,8 @@
-# Effective Hourly Rate Calculator
+# True Hourly Rate After Costs
 
 Your effective hourly rate is your income after expenses divided by every hour you actually work, including the unpaid ones. This tool computes it from your income, your billable and non-billable hours, and your business expenses, then shows the gap between that real rate and the nominal rate you think you charge.
 
-**Live demo:** https://0xelitesystem.github.io/effective-hourly-rate-calculator/
+**Live demo:** https://0xelitesystem.github.io/true-hourly-rate-after-costs/
 
 ## What it does
 
@@ -38,8 +38,8 @@ Everything runs in your browser. Nothing you type is sent anywhere, stored, or s
 Open `index.html` in any modern browser, or host it as a static page. No build step, no dependencies, no network calls.
 
 ```
-git clone https://github.com/0xelitesystem/effective-hourly-rate-calculator
-cd effective-hourly-rate-calculator
+git clone https://github.com/0xelitesystem/true-hourly-rate-after-costs
+cd true-hourly-rate-after-costs
 ```
 
 Then open `index.html`, or serve the folder with `python -m http.server` and visit http://localhost:8000.
